@@ -72887,7 +72887,7 @@
                 "type": "array"
               },
               "disableCors": {
-                "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                "description": "Whether or not to disable CORS mechanism.",
                 "type": "boolean"
               },
               "follow_redirects": {
@@ -75851,7 +75851,7 @@
                 "type": "array"
               },
               "disableCors": {
-                "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                "description": "Whether or not to disable CORS mechanism.",
                 "type": "boolean"
               },
               "follow_redirects": {
@@ -79376,7 +79376,7 @@
                       "type": "array"
                     },
                     "disableCors": {
-                      "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                      "description": "Whether or not to disable CORS mechanism.",
                       "type": "boolean"
                     },
                     "follow_redirects": {
@@ -81349,7 +81349,7 @@
                 "type": "array"
               },
               "disableCors": {
-                "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                "description": "Whether or not to disable CORS mechanism.",
                 "type": "boolean"
               },
               "follow_redirects": {
@@ -81670,7 +81670,7 @@
             "type": "array"
           },
           "disableCors": {
-            "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+            "description": "Whether or not to disable CORS mechanism.",
             "type": "boolean"
           },
           "follow_redirects": {
@@ -256519,7 +256519,7 @@
                                 "type": "array"
                               },
                               "disableCors": {
-                                "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                                "description": "Whether or not to disable CORS mechanism.",
                                 "type": "boolean"
                               },
                               "follow_redirects": {
@@ -257311,7 +257311,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -258036,7 +258036,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -259225,7 +259225,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -260238,7 +260238,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -261354,7 +261354,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -262439,7 +262439,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -263452,7 +263452,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -264148,7 +264148,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -264823,7 +264823,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -265601,7 +265601,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -266348,7 +266348,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -267023,7 +267023,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -269483,7 +269483,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
@@ -270281,7 +270281,7 @@
                         "type": "array"
                       },
                       "disableCors": {
-                        "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                        "description": "Whether or not to disable CORS mechanism.",
                         "type": "boolean"
                       },
                       "follow_redirects": {
@@ -271006,7 +271006,7 @@
                           "type": "array"
                         },
                         "disableCors": {
-                          "description": "Whether or not to disable CORS mechanism. Currently only available for Chrome.",
+                          "description": "Whether or not to disable CORS mechanism.",
                           "type": "boolean"
                         },
                         "follow_redirects": {
