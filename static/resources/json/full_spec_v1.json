@@ -252900,6 +252900,31 @@
               }
             },
             "description": "Forbidden"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "Error response object.",
+                  "properties": {
+                    "errors": {
+                      "description": "Array of errors returned by the API.",
+                      "items": {
+                        "description": "Error description.",
+                        "example": "Bad Request",
+                        "type": "string"
+                      },
+                      "type": "array"
+                    }
+                  },
+                  "required": [
+                    "errors"
+                  ],
+                  "type": "object"
+                }
+              }
+            },
+            "description": "SLO Not Found"
           }
         },
         "summary": "Create an SLO correction",
